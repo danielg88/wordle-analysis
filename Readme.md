@@ -35,7 +35,7 @@ Results
 |pulis |   6181  | 
 
 
-### Top words without repeating any consonant:
+### Top words without previously repeating any consonant:
 |Word |    Points|   
 |------|------:|  
 |careo|    8358  |   
